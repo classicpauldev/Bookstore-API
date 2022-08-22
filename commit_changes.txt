@@ -1,1 +1,1 @@
-Initialize Node.js project with package.json
+Install Express, Mongoose, dotenv, and nodemon dependencies
