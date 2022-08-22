@@ -27,3 +27,4 @@ mongoose.connect(MONGODB_URI, {
 .catch((err) => {
   console.error('Failed to connect to MongoDB', err);
 }); // Commit: Initialize Node.js project with package.json on 2022-08-21 12:01:00
+// Commit: Set up basic Express server in src/index.js on 2022-08-22 12:01:00
