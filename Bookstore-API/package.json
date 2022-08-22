@@ -19,3 +19,4 @@
     "nodemon": "^3.0.1"
   }
 } // Commit: Install Express, Mongoose, dotenv, and nodemon dependencies on 2022-08-21 12:02:00
+// Commit: Add MongoDB connection using Mongoose on 2022-08-22 12:02:00
