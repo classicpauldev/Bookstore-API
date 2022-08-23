@@ -1,1 +1,1 @@
-Install Express, Mongoose, dotenv, and nodemon dependencies
+Set up basic Express server in src/index.js
