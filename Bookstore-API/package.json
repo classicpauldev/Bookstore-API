@@ -21,3 +21,4 @@
 } // Commit: Install Express, Mongoose, dotenv, and nodemon dependencies on 2022-08-21 12:02:00
 // Commit: Add MongoDB connection using Mongoose on 2022-08-22 12:02:00
 // Commit: Add root API route to return welcome message on 2022-08-23 12:02:00
+// Commit: Add development script using nodemon in package.json on 2022-08-24 12:02:00
