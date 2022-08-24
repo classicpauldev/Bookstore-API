@@ -29,3 +29,4 @@ mongoose.connect(MONGODB_URI, {
 }); // Commit: Initialize Node.js project with package.json on 2022-08-21 12:01:00
 // Commit: Set up basic Express server in src/index.js on 2022-08-22 12:01:00
 // Commit: Configure dotenv for environment variables support on 2022-08-23 12:01:00
+// Commit: Add JSON body parsing middleware to Express app on 2022-08-24 12:01:00
