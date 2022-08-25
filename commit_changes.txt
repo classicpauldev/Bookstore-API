@@ -1,1 +1,1 @@
-Add MongoDB connection using Mongoose
+Configure dotenv for environment variables support
