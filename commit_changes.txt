@@ -1,1 +1,1 @@
-Configure dotenv for environment variables support
+Add root API route to return welcome message
