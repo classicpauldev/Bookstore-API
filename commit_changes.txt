@@ -1,1 +1,1 @@
-Add root API route to return welcome message
+Add JSON body parsing middleware to Express app
