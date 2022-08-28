@@ -1,1 +1,1 @@
-Add JSON body parsing middleware to Express app
+Add development script using nodemon in package.json
