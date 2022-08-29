@@ -1,1 +1,1 @@
-Add development script using nodemon in package.json
+Add project metadata: description, keywords, license
