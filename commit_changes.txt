@@ -1,1 +1,1 @@
-Add project metadata: description, keywords, license
+Create initial project structure with src/index.js
