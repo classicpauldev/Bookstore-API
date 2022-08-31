@@ -1,1 +1,1 @@
-Create initial project structure with src/index.js
+Implemented WebSockets for real-time updates
