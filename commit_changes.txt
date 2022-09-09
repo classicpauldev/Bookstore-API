@@ -1,1 +1,1 @@
-Added support for multiple languages
+Implemented user activity logs
