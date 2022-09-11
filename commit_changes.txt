@@ -1,1 +1,1 @@
-Improved admin dashboard performance
+Fixed OAuth integration issues
