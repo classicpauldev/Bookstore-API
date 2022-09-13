@@ -1,1 +1,1 @@
-Enhanced security headers in API responses
+Refactored authentication middleware
