@@ -1,1 +1,1 @@
-Implemented feature toggles for beta testing
+Fixed CORS policy errors
