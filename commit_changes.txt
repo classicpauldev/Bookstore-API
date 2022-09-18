@@ -1,1 +1,1 @@
-Fixed CORS policy errors
+Enhanced error logging and monitoring
