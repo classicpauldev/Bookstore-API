@@ -1,1 +1,1 @@
-Refactored database migrations
+Added notification system for users
