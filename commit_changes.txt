@@ -1,1 +1,1 @@
-Added notification system for users
+Fixed pagination issues on list views
