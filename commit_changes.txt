@@ -1,1 +1,1 @@
-Fixed pagination issues on list views
+Implemented role-based permissions
