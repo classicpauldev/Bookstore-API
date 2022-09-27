@@ -1,1 +1,1 @@
-Improved frontend state management
+Fixed UI responsiveness on tablets
