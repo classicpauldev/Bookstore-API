@@ -1,1 +1,1 @@
-Optimized image compression for faster loading
+Added email verification process
