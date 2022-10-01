@@ -1,1 +1,1 @@
-Added email verification process
+Refactored user profile management
