@@ -1,1 +1,1 @@
-Implemented custom analytics dashboard
+Fixed bug in file storage service
