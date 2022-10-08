@@ -1,1 +1,1 @@
-Fixed broken links in the documentation
+Improved database indexing strategies
