@@ -1,1 +1,1 @@
-Implemented advanced search filters
+Added user preference settings
