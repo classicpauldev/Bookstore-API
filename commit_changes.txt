@@ -1,1 +1,1 @@
-Added user preference settings
+Fixed memory leak in background processes
