@@ -1,1 +1,1 @@
-Fixed timezone handling issues
+Improved error recovery mechanisms
