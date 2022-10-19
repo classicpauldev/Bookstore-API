@@ -1,1 +1,1 @@
-Improved error recovery mechanisms
+Added automated testing suite
