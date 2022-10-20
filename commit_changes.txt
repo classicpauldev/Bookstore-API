@@ -1,1 +1,1 @@
-Added automated testing suite
+Implemented caching layer for API responses
