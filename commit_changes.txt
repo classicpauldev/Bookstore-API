@@ -1,1 +1,1 @@
-Fixed authentication token refresh bug
+Enhanced user onboarding flow
