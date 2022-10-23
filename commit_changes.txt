@@ -1,1 +1,1 @@
-Enhanced user onboarding flow
+Added bulk operations support
